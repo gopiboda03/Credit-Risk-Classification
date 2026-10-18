@@ -230,7 +230,7 @@ This will:
 python app.py
 ```
 
-Then open your browser at: **http://localhost:5000**
+Then open your browser at: **http://13.60.52.216:5001/**
 
 ### Using Docker
 
